@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+  background-color: #F0F4EF;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 65px;
+  color: #344966;
+  font-family: 'Poppins-Bold', sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+#text-area{
+  padding-top: 0px;
+ 
+}
+#new-game-button{
+  background-color: #869EC1;
+  font-size:20px;
+}
+#hit-button{
+  background-color: #BFCC94;
+  font-size:20px;
+}
+#stay-button{
+  background-color: #D1495B;
+  font-size:20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  margin-top:20px;
+}
